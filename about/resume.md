@@ -1,68 +1,85 @@
-# Timmy
+# Timmy Kouadio-Bhegnin
 
-Full-stack developer. Building products across backend, mobile, data, and infrastructure.
+Full-stack developer & creator. Building products across backend, mobile, data, and infrastructure.
 
 ## Employment
 
-### Freelance / Client Projects
+### GS2E | Groupe Eranove
 
-_[Year] - now_
+_September 2023 - now_
 
-Title: Full-stack Developer
+Title: Analyste Programmeur
 
-Building and maintaining a portfolio of web, mobile, and data systems for organizations across Côte d'Ivoire and beyond. Projects span backend APIs, mobile apps, ETL pipelines, and infrastructure.
+Over two years in the DLSI department, developing skills across web, systems, and backend development.
+
+- Web Development
+- Systems Development
+- Back-end Development
+
+### Freelance | Sous-traitance
+
+_2024 - now_
+
+Title: Développeur Full-Stack
+
+- Server installation and maintenance, electrical equipment
+- HelpDesk development for IT services
 
 #### Projects
 
-- **MaSODECI-V2**
-  - Port of a legacy system rebuilt on a modern stack
-  - Tech: Elysia, Mongoose, MongoDB, TypeScript
-
-- **SIGOMAP**
-  - Next.js web application, deployed on Railway
-  - Tech: Next.js, TypeScript, Prisma, Railway
-
-- **AGPAIE**
-  - Backend system managing large transaction datasets with complex relational data
-  - Tech: Node.js, Prisma, MongoDB, TypeScript
-
-- **EdenGo / Coach**
-  - Android fitness coaching mobile app
-  - Tech: Expo, React Native, TypeScript, Java 21
-
-- **kafka-bot**
-  - KafkaJS consumer bot with Snappy compression codec support
-  - Tech: KafkaJS, Bun, TypeScript
-
+- **MaSODECI-V2** — Port of a legacy system rebuilt on a modern stack · Elysia, Mongoose, MongoDB, TypeScript
+- **SIGOMAP** — Next.js web app deployed on Railway · Next.js, TypeScript, Prisma, Railway
+- **AGPAIE** — Backend managing large transaction datasets · Node.js, Prisma, MongoDB, TypeScript
+- **EdenGo / Coach** — Android fitness coaching mobile app · Expo, React Native, TypeScript
+- **kafka-bot** — KafkaJS consumer bot with Snappy compression · KafkaJS, Bun, TypeScript
 - **BTS Ticketing System** — Event ticketing platform
 - **Remote Pharmacy** — Healthcare access tooling
 - **EASYWATER** — Water resource management
 - **E-Agence** — Agency management platform
-- **Game Room / Gym** — Facility management apps
+
+### West Africa Data Bridge | New Digital Africa
+
+_May - August 2021_
+
+Title: Data Center Technician
+
+- Server and electrical equipment installation and maintenance
+- HelpDesk development for IT services
 
 ## Education
 
-### [Your Institution]
+### International University of Grand-Bassam
 
-_[Years]_
+_2022_
 
-Title: [Your Degree]
+Bachelor en Informatique
+
+### Nys Africa
+
+_2022_
+
+CEH — Certified Ethical Hacker
 
 ## Tech
 
-### Things I'm great at
+### Expertise
 
-TypeScript, Node.js, Next.js, React, Prisma, MongoDB, Mongoose, Docker
+Full-Stack Development, Systems Development, DevOps, Penetration Testing
 
-### Things I'm good at
+### Languages
 
-Bun, Elysia, Expo, React Native, Kafka (KafkaJS), Java/Maven, Talend Open Studio
+TypeScript/JavaScript, Python, Go, Rust
 
 ### Things I like a lot
 
-Arch Linux, Claude Code, Bun runtime
+- Arch, btw
+- Neovim
+- Bikes
+- Music
+- Coffee
 
 ## Contact
 
-- GitHub: [your handle](https://github.com/)
-- Email: your@email.com
+- Github: [abjshawty](https://github.com/abjshawty)
+- X: [abjshawty](https://x.com/abjshawty)
+- Email: kouadiobhegnino@gmail.com
