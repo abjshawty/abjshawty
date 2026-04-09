@@ -1,14 +1,14 @@
 Full-stack developer building across backend, mobile, and data systems.
-Working across Abidjan and beyond, shipping products for real clients.
+Not that serious, but i enjoy the work. hmu!
 
 ## Current Projects
 
 ### Products
 - **[Tickesio](https://tickesio.com/)** — Event & ticketing management system, built with Node.js, Fastify and Postgres
-- **[SIGOMAP](https://github.com/)** — Next.js web app deployed on Railway
-- **[AGPAIE](https://github.com/)** — Node.js/Prisma/MongoDB backend managing large transaction datasets
-- **[EdenGo/Coach](https://github.com/)** — Expo/React Native Android fitness app
-- **[kafka-bot](https://github.com/)** — KafkaJS consumer bot running on Bun with Snappy compression
+- **[SIGOMAP](https://crosstestapps.com)** — Next.js web app deployed on Railway
+- **[AGPAIE](https://agpayr.univers.ci/)** — Node.js/Prisma/MongoDB backend managing large transaction datasets
+- **[EdenGo/Coach](https://github.com/EdenGoDev)** — Expo/React Native Android fitness app
+- **[kafka-bot](https://github.com/abjshawty/kafka-bot)** — KafkaJS consumer bot running on Bun with Snappy compression
 
 ### Clients & Team Projects
 - **Private Ticketing System** — Event ticketing platform
@@ -23,4 +23,4 @@ Working across Abidjan and beyond, shipping products for real clients.
 
 ## Stack
 
-TypeScript · Node.js · Bun · Next.js · Expo · Elysia · Prisma · Mongoose · Kafka · Docker · Java · Arch Linux
+TypeScript · Node.js · Bun · Next.js · Expo · Elysia · Prisma · Mongoose · Kafka · Docker · Rust · Go · Arch Linux
